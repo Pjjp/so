@@ -1,0 +1,8 @@
+  id    start_time    burst_time    reverse_time
+----  ------------  ------------  --------------
+   1             6             3               9
+   2             8            16              24
+   3             7             8              15
+   4             3             0               3
+
+Average waiting time = 6.75000 
